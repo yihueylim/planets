@@ -1,4 +1,8 @@
 Cold  and dry, but everything is in my favourite colour.
 The two moons may be a problem for Wolfman.
+<<<<<<< HEAD
 Two plus two is four.
 Two plus two is five
+=======
+Mars is a beatiful place but it is very hot.
+>>>>>>> 959a10ebd17a854be60e313082d1302dc9eebce1
